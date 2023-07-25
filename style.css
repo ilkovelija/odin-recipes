@@ -1,0 +1,52 @@
+body {
+  background-color: lightskyblue;
+}
+
+.content {
+  width: auto;
+  height: auto;
+}
+
+.title {
+  font-family: arial;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgb(20, 20, 20);
+  color: white;
+}
+
+.odin-pic {
+  width: 50%;
+  display: block;
+  margin: auto;
+
+}
+
+.recipe-links {
+  font-family: arial;
+  margin: auto;
+  width: 900px;
+}
+
+.list-container {
+  margin: auto;
+  width: 500px;
+  height: 50px;
+  padding: 10px;
+}
+
+li {
+  display: inline;
+  margin: 20px;
+  font-family: arial;
+  font-weight: bold;
+  font-size: 20px;
+
+}
+
+ul {
+  align-items: center;
+  margin: 5px;
+  padding: 10px;
+  text-align: center;
+
+}
